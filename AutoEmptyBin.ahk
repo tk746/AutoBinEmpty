@@ -1,0 +1,1 @@
+﻿#Del::FileRecycleEmpty ; win + del
