@@ -2,4 +2,3 @@
 Empty's the Recycling bin on your desktop without having to right click to enmpty
 Press WindowsKey + DEL on your keyboard to empty the trashcan
 you can edit the key you use in the script
-if you need help message me on discord tk746#0069
